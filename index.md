@@ -4,7 +4,7 @@ layout: default
 
 Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy. If you want to know more about me, feel free to take a look at
 
-+ my [education](./education.md),
++ my [ed](./education.md),
 + my [employment](./employment.md),
 + the [things I’ve written](./publications.md),
 + the [presentations I’ve held](./presentations.md),
