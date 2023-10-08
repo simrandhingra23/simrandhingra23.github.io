@@ -17,6 +17,6 @@ layout: default
   - Supervisor: Dr. Deepak B Salunke
 
 - **Bachelor of Science (Chemistry)**
-  - *October 2010 – March 2014*
+  - *2013 - 2016*
   - Panjab University, Chandigarh, India
   - 1<sup>st</sup> division with distinction
