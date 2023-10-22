@@ -26,20 +26,20 @@ You can also find most of this info in my CV, which I've linked [here](https://g
 
 # News
 
-+ 22/06/2021: [On the cover page of LSU chemistry Summer 2021 E-newsletter] (https://myemail.constantcontact.com/Summer-2021-E-Newsletter.html?soid=1116637108838&aid=bJa6C_L3jLo) (Louisiana State University)
-+ “You can find me on the webpage of LSU chemistry graduate studies”                                                     (https://www.lsu.edu/science/chemistry/academics/graduate/index.php ) (Louisiana State University)
++ 22/06/2021: [On the cover page of LSU chemistry Summer 2021 E-newsletter](https://myemail.constantcontact.com/Summer-2021-E-Newsletter.html?soid=1116637108838&aid=bJa6C_L3jLo) (Louisiana State University)
++ [“You can find me on the webpage of LSU chemistry graduate studies”](https://www.lsu.edu/science/chemistry/academics/graduate/index.php) (Louisiana State University)                                
 
 * * *
 
 # Collaborators
 
 The great people with whom I had the pleasure to work or with whom I’m currently working include:
-+ [Maria da Graça H. Vicente] (https://faculty.lsu.edu/vicente/members.php) (Louisiana State University (LSU), Baton Rouge, USA)
-+ [Kevin M Smith] (https://faculty.lsu.edu/kmsmith/about.php) (LSU, Baton Rouge, USA)
-+ [Seetharama D Jois] (https://www.lsu.edu/vetmed/faculty/jois.php) (LSU School of Veterinary Medicine, Baton Rouge, USA)
-+ [Vince J LiCata]( https://www.lsu.edu/science/biosci/faculty-and-staff/faculty-pages/licata.php) (LSU, Baton Rouge, USA)
-+ [Zehua Zhou] (https://www.lsu.edu/vetmed/pbs/people.php) (LSU, Baton Rouge, USA)
-+ [Deepak B Salunke] (https://chemistry.puchd.ac.in/show-biodata.php?qstrempid=3444&qstrempdesigcode=10) (Panjab University, Chandigarh, India)
++ [Maria da Graça H. Vicente](https://faculty.lsu.edu/vicente/members.php) (Louisiana State University (LSU), Baton Rouge, USA)
++ [Kevin M Smith](https://faculty.lsu.edu/kmsmith/about.php) (LSU, Baton Rouge, USA)
++ [Seetharama D Jois](https://www.lsu.edu/vetmed/faculty/jois.php) (LSU School of Veterinary Medicine, Baton Rouge, USA)
++ [Vince J LiCata](https://www.lsu.edu/science/biosci/faculty-and-staff/faculty-pages/licata.php) (LSU, Baton Rouge, USA)
++ [Zehua Zhou](https://www.lsu.edu/vetmed/pbs/people.php) (LSU, Baton Rouge, USA)
++ [Deepak B Salunke](https://chemistry.puchd.ac.in/show-biodata.php?qstrempid=3444&qstrempdesigcode=10) (Panjab University, Chandigarh, India)
 
 * * *
 
