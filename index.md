@@ -29,7 +29,7 @@ You can also find most of this info in my CV, which I've linked [here](https://g
 # News
 
 + 22/06/2021: [On the cover page of LSU chemistry Summer 2021 E-newsletter](https://myemail.constantcontact.com/Summer-2021-E-Newsletter.html?soid=1116637108838&aid=bJa6C_L3jLo) (Louisiana State University)
-+ [“You can find me on the webpage of LSU chemistry graduate studies”](https://www.lsu.edu/science/chemistry/academics/graduate/index.php) (Louisiana State University)                                
++ You can find me on the webpage of LSU chemistry graduate studies [here](https://www.lsu.edu/science/chemistry/academics/graduate/index.php) (Louisiana State University)                                
 
 * * *
 
