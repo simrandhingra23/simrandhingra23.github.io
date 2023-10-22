@@ -26,38 +26,20 @@ You can also find most of this info in my CV, which I've linked [here](https://g
 
 # News
 
-+ 23/06/2022: [“When heating in winter becomes a luxury”](https://uol.de/en/news/article/when-heating-in-winter-becomes-a-luxury-6327) (University of Oldenburg)
-+ 24/05/2022: [“Wie knappes Heizmaterial gerecht verteilen? Forschende veröffentlichen Studie zu Verteilungsgerechtigkeit”](https://www.presse.uni-oldenburg.de/mit/2022/103.html) (University of Oldenburg)
-+ 20/04/2022: [“Lernen, mit der Freiheit umzugehen”](https://uol.de/aktuelles/gestaerkt-promovieren/lernen-mit-der-freiheit-umzugehen) (University of Oldenburg)
++ 22/06/2021: [On the cover page of LSU chemistry Summer 2021 E-newsletter] (https://myemail.constantcontact.com/Summer-2021-E-Newsletter.html?soid=1116637108838&aid=bJa6C_L3jLo) (Louisiana State University)
++ “You can find me on the webpage of LSU chemistry graduate studies”                                                     (https://www.lsu.edu/science/chemistry/academics/graduate/index.php ) (Louisiana State University)
 
 * * *
 
 # Collaborators
 
 The great people with whom I had the pleasure to work or with whom I’m currently working include:
-+ [Mark Alfano](https://researchers.mq.edu.au/en/persons/mark-alfano) (Macquarie University)
-+ [Aurélien Allard](https://www.unige.ch/medecine/ieh2/welcome/staff/aurelien-allard/) (University of Geneva)
-+ [Nils Baratella](https://soz-kult.hs-duesseldorf.de/personen/baratella) (Hochschule Düsseldorf, University of Applied Sciences)
-+ [Lucien Baumgartner](https://www.philosophie.uzh.ch/de/seminar/people/research/snsf_reuter/baumgartner.html) (University of Zurich)
-+ [Florian Cova](https://www.unige.ch/cisa/center/members/cova-florian/) (University of Geneva)
-+ [Gregor Damschen](https://uol.de/philosophie/dr-gregor-damschen) (University of Oldenburg)
-+ [Adele Diederich](https://www.jacobs-university.de/directory/adiederich) (University of Oldenburg)
-+ [Paul Engelhardt](https://research-portal.uea.ac.uk/en/persons/paul-engelhardt) (University of East Anglia)
-+ [Eugen Fischer](https://research-portal.uea.ac.uk/en/persons/eugen-fischer) (University of East Anglia)
-+ [Helena Esther Grass](https://uol.de/philosophie/helena-grass) (University of Oldenburg)
-+ [Stephan Kornmesser](https://uol.de/stephan-kornmesser) (University of Oldenburg)
-+ [Frauke Meyer](https://www.fz-juelich.de/profile/meyer_f) (Jülich Research Centre)
-+ [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html) (QUOTAC Management)
-+ [Kevin Reuter](https://www.philosophie.unibe.ch/ueber_uns/personen/reuter/index_ger.html) (University of Bern)
-+ [Jan Romann](https://github.com/JKRhb) (Hochschule Emden/Leer, University of Applied Sciences)
-+ [Mark Siebel](https://uol.de/philosophie/prof-dr-mark-siebel) (University of Oldenburg)
-+ [Michael Schippers](https://uol.de/philosophie/ehemalige/dr-michael-schippers) (University of Oldenburg)
-+ [Nils Springhorn](https://uol.de/polsys/team/nils-springhorn) (University of Oldenburg)
-+ [Stefan Traub](https://www.hsu-hh.de/be/) (Helmut Schmidt University, University of the Federal Armed Forces Hamburg)
-+ [Justin Sytsma](https://people.wgtn.ac.nz/justin.sytsma) (Victoria University of Wellington)
-+ [Arne Robert Weiss](http://fae.ua.es/FAEX/weissarne-r/) (University of Alicante)
-+ [Kyle Thompson](https://www.kthompsonphilosophy.com/) (Harvey Mudd College)
-+ [Marc Wyszynski](https://www.uni-bremen.de/universitaet/campus/mitarbeiterinnenverzeichnis/person/187022/Wyszynski) (University of Bremen)
++ [Maria da Graça H. Vicente] (https://faculty.lsu.edu/vicente/members.php) (Louisiana State University (LSU), Baton Rouge, USA)
++ [Kevin M Smith] (https://faculty.lsu.edu/kmsmith/about.php) (LSU, Baton Rouge, USA)
++ [Seetharama D Jois] (https://www.lsu.edu/vetmed/faculty/jois.php) (LSU School of Veterinary Medicine, Baton Rouge, USA)
++ [Vince J LiCata]( https://www.lsu.edu/science/biosci/faculty-and-staff/faculty-pages/licata.php) (LSU, Baton Rouge, USA)
++ [Zehua Zhou] (https://www.lsu.edu/vetmed/pbs/people.php) (LSU, Baton Rouge, USA)
++ [Deepak B Salunke] (https://chemistry.puchd.ac.in/show-biodata.php?qstrempid=3444&qstrempdesigcode=10) (Panjab University, Chandigarh, India)
 
 * * *
 
