@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Hey there! I'm Simran, a PhD student in Chemistry at Louisiana State University. If you want to know more about me, feel free to take a look at
+Hey there! I'm Simran. With a strong focus on cancer therapeutics, I am currently pursuing Ph.D. at Louisiana State University, proficient in organic synthesis, HPLC analysis, and advanced spectroscopy. My research projects involve creating novel bioconjugates for targeted cancer treatment and dual HIV therapy. This has led to multiple research publications and awards. In addition, I have dedicated two years to mentoring undergraduates, sharing my knowledge and experience, and thereby motivating them to pursue chemistry as their career. I am also actively engaged in various community outreach initiatives, aiming to make a positive impact beyond the academic sphere. 
+
+If you want to know more about me, please feel free to take a look at
 
 + my [education](./education.md),
 + my [research projects](./research.md),
@@ -12,7 +14,7 @@ Hey there! I'm Simran, a PhD student in Chemistry at Louisiana State University.
 + my [role as a teaching assistant](./teaching.md),
 + my [academic achievements and extra-cirrucular activities](./academic.md).
 
-You can also find most of this info in my CV, which I've linked [here](https://github.com/simrandhingra23/simrandhingra23.github.io/blob/main/Simran_CV_Sept-fnf.pdf).
+You can also find most of this info in my CV, which I've linked [here](https://github.com/simrandhingra23/simrandhingra23.github.io/blob/main/Simran_CV_Oct-fnf.pdf).
 
 * * *
 
