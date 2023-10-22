@@ -11,25 +11,28 @@ layout: default
 - Participated in 3-minute research elevator pitch competition held by NOBCChE at Louisiana State University on February 27th, 2022.
 
 - Winner, among 40 competing teams, in the intradepartmental quiz “CHEM MINDS” at the Panjab University, during 2013-2014.
+  
+- Represented the Chemistry Department of Panjab University in the Interdepartmental Quiz Competition during the 8<sup>th</sup> Chandigarh Science Congress, CHASCON-2014 in February 2014.
 
 # Extra-Cirrucular
 
-- Participated in a Chemistry Demontration (ChemDemo) Program for the Girls’ Day at the LSU Museum of Natural Science held on March 4th , 2023.
+- Volunteered for community outreach with Elaine Education Foundation at LaSalle Elementary School, Baton Rouge, in October 2023. Activities included teaching kids how to build molecules using marshmallows and toothpicks.
 
-- Served as a volunteer for 2022 American Chemical Society (ACS) Southwest Regional Meeting (SWRM) held in November 2022.
+- Contributed to the Chemistry Demonstration (ChemDemo) Program for Girls’ Day at the LSU Museum of Natural Science on March 4<sup>th</sup>, 2023. Activities included demonstrating children what various objects, including sand, sugar, leaves, and fabrics, look like under a Scope-On-A-Rope microscope.  
 
-- Served as the advisor for the Indian Students Association (ISA-LSU) for the term 2022-2023.
+- Served as the advisor of the LSU Indian Students Association (LSU-ISA) for the 2022-2023 term. Activities included helping out the new committee members in organizing various cultural events and obtaining appropriate funding for the said events.  
 
-- Served as the Vice-President for the Indian Students Association (ISA-LSU) for the term 2021-2022.
+- Served as the Vice-President of LSU-ISA for the 2021-2022 term. Activities included managing the committee and organizing various cultural events.  
 
-- Runner-up of badminton mixed doubles and women singles organized by the Indian Students Association at Louisiana State University in Spring 2021.
+- Achieved runner-up status in badminton mixed doubles and women’s singles during the LSU-ISA event in Spring 2021.  
 
-- Winner of the inter-department Rangoli competition in “RASAYAN” fest organized by the Depart- ment of Chemistry at Panjab University, Chandigarh, 2014.
+- Hosted a ChemDemo program for 10<sup>th</sup>- and 11<sup>th</sup>-grade students at West St. John High School, Edgard, Louisiana, in September 2019. Activities included demonstrating two chemistry experiments: 1. light-producing chemical reactions, where students witnessed how elements come together to display various colors and 2. synthesizing a polymer, Silly Putty, using Elmers school glue and water-borax solution.  
 
-- Winner of women doubles in “Badminton Championship” organized by the Indian Chemical So- ciety, 2016-2017.
+- Earned first place in the inter-department Rangoli competition at the "RASAYAN" fest organized by the Department of Chemistry at Panjab University, Chandigarh, in 2014.  
 
-- Participated in a ChemDemo Program for students of 10th grade at West St. John High School, Edgard, Louisiana in September 2019.
+- Secured the championship title in women’s doubles at the "Badminton Championship" organized by the Indian Chemical Society in 2016-2017.  
 
-- Participated in Non-Credit course on “Skill Development” organized by Central Placement Cell, Panjab University, Chandigarh, in January 2017 and secured an A grade among 400 students from various university departments.
+- Successfully completed a non-credit course on "Skill Development" organized by the Central Placement Cell, Panjab University, Chandigarh, in January 2017, receiving an A grade among 400 students from various university departments.
 
-- Participated as Member of the Cultural Committee of the Indian Chemical Society, Panjab Univer- sity, during 2017-2018.
+- Acted as a member of the Cultural Committee of the Indian Chemical Society at Panjab University during the 2017-2018 term.
+
