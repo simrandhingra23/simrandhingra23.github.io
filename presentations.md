@@ -4,24 +4,47 @@ layout: default
 
 # Conferences and Workshops
 
-- Delivered a talk on _“Synthesis of BODIPY-TKI conjugates and investigation of their ability to target Epidermal Growth Factor Receptor (EGFR)”_ at the 50th **Annual NOBCChE Conference**, Septem- ber 2023.
+- *Project: Synthesis of BODIPY-TKI conjugates and investigation of their
+ability for targeting the Epidermal Growth Factor Receptor*
 
-- Presented a poster on _“Synthesis of BODIPY-TKI conjugates and investigation of their ability for targeting the Epidermal Growth Factor Receptor”_ at the **ACS Division of Organic Chemistry Graduate Research Symposium** at Montana State University, July 2023.
+  -   Presenting a poster at the **Center for Pre-Clinical Cancer
+    Research** symposium organised by LSU School of Veterinary Medicine
+    on October 27, 2023.
 
-- Delivered a talk on _“Synthesis and Characterization of BODIPY-TKI conjugates”_ at **Graduate Re- search Conference** held at Louisiana State University in April 2023.
+  -   Delivered a talk at the **50<sup>th</sup> Annual NOBCChE
+    Conference**, September 2023.
 
-- Presented a poster entitled _“Synthesis of BODIPY-TKI conjugates”_ at the 2022 **American Chemical Society (ACS) Southwest Regional Meeting (SWRM)** in November 2022.
+  -   Presented a poster at the **ACS Division of Organic Chemistry
+    Graduate Research Symposium** at Montana State University, July, 2023.
 
-- Selected for Poster Presentation at **The American Chemical Society premier outreach program** at the Indian Institute of Science Education and Research (IISER), Mohali in February 2018.
+  -   Delivered a talk at **Graduate Research Conference** held at
+    Louisiana State University in April 2023.
 
-- Nominated for Poster Presentation entitled _“Synthesis of Toll-Like Receptor 7/8 Agonistic Imidazo- quinolines”_ at the Medicinal Chemistry conference **MEDCHEM-2017** at the Indian Institute of Technology, Madras in November 2017.
+  -   Presented a poster at the 2022 **ACS Southwest Regional Meeting
+    (SWRM)** in November 2022.  
 
-- Participated in the **Indo-UK scoping workshop** on _“Development of Rural Biorefineries in India”_ at Department of SAIF/CIL, Panjab University in February 2017.
+- *Project: Synthesis of Toll-Like Receptor 7/8 Agonistic
+Imidazoquinolines*
 
-- Participated in **Professor R.C. Paul National Symposium on Current Advances in Chemical Sciences** in February 2017.
+  -   Presented a poster at the **ACS premier outreach program** at the
+    Indian Institute of Science Education and Research (IISER), Mohali
+    in February 2018.
 
-- Presented a poster entitled _“Biomimicry and Green Chemistry for sustainability”_ at the 11<sup>th</sup> Chandigarh Science Congress, **CHASCON-2017** in March 2017.
+  -   Presented a poster at the medicinal chemistry conference
+    **MEDCHEM-2017** at the Indian Institute of Technology (IIT), Madras
+    in November 2017.  
 
-- Participated in the course _“Transition metals in organic synthesis”_ by Prof. Roderick W. Bates, NTU, Singapore under the **GIAN** Programme by Govt. Of India during June-July 2017.
+- Participated in the **Indo-UK scoping workshop** on *“Development of
+Rural Biorefineries in India"* at Department of SAIF/CIL, Panjab
+University in February 2017.  
 
-- Represented the Chemistry Department of Panjab University in the Interdepartmental Quiz Competition during the 8<sup>th</sup> Chandigarh Science Congress, **CHASCON-2014** in February 2014.
+- Participated in **Professor R.C. Paul National Symposium on Current
+Advances in Chemical Sciences** in February 2017.  
+
+- Presented a poster entitled *“Biomimicry and Green Chemistry for
+sustainability"* at the 11<sup>th</sup> Chandigarh Science Congress,
+**CHASCON-2017** in March 2017.  
+
+- Participated in the workshop *“Transition metals in organic synthesis"*
+by Prof. Roderick W. Bates, NTU, Singapore under the **GIAN** Programme
+by Govt. Of India during June-July 2017.  
